@@ -1,0 +1,46 @@
+{
+    "P_00001": {
+        "uber": {
+            "name": "Uber Technologies Inc",
+            "shares": 10,
+            "price": 54.77
+        },
+        "dis": {
+            "name": "Walt Disney Co",
+            "shares": 50,
+            "price": 186.02
+        },
+        "fb": {
+            "name": "Facebook, Inc",
+            "shares": 55,
+            "price": 324.90
+        },
+        "tsla": {
+            "name": "Tesla Inc",
+            "shares": 15,
+            "price": 709.44
+        },
+        "appl": {
+            "name": "Apple Inc",
+            "shares": 0,
+            "price": 131.46
+        },
+        "sq": {
+            "name": "Square Inc",
+            "shares": 251,
+            "price": 244.82
+        }
+    },
+    "P_00002": {
+        "appl": {
+            "name": "Apple Inc",
+            "shares": 2000,
+            "price": 131.46
+        },
+        "sq": {
+            "name": "Square Inc",
+            "shares": 10,
+            "price": 244.82
+        }
+    }
+}
